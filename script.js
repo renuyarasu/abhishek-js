@@ -1,9 +1,7 @@
 // JavaScript: Functions
-
+// Parameters, Arguments and Value
 console.clear();
 
-function greet() {
-    console.log('Hello JavaScript/ES6');
+function greet(number) {
+    console.log(number * number);
 }
-
-greet();
