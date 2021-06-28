@@ -1,7 +1,12 @@
-// JavaScript: Functions
-// Parameters, Arguments and Value
+// JavaScript: Variables
+/* 
+Local Variables
+Global Variables 
+*/
 console.clear();
 
-function greet(number) {
-    console.log(number * number);
+
+function add (){
+    var x = 10;
+    console.log('Value of ');
 }
